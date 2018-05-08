@@ -6,7 +6,7 @@ You may have to update the LUXFUDGE and IMUFUDGE values depending on your machin
 It may take severak goes to get it right!
 
 
-Check out the video on my YouTube channel: MickMake - https://www.youtube.com/c/MickMakes
+Check out the video on my YouTube channel: MickMake - https://youtube.com/MickMake
 
 Video link: https://www.youtube.com/watch?v=l4EcBP_VhV4
 
