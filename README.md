@@ -10,5 +10,5 @@ Check out the video on my YouTube channel: MickMake - https://youtube.com/MickMa
 
 Video link: https://www.youtube.com/watch?v=l4EcBP_VhV4
 
-Website article: http://mickmake.com/archives/1362
+Website article: https://mickmake.com/archives/1362
 
